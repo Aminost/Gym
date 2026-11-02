@@ -2,7 +2,7 @@
 
 A small offline training app (PWA) for the gym: a weekly plan for 3–6 days, an exercise library with animated demos, set logging and a light progress dashboard. All data stays on the phone.
 
-**Open:** https://aminost.github.io/gym/ → share menu → *Add to Home Screen*.
+**Open:** https://aminost.github.io/Gym/ → share menu → *Add to Home Screen*.
 
 ## How it works
 - **Setup:** female/male (sets the default goal), goal (glutes & legs, build muscle, toned & fit, strength, fat loss), level (beginner / intermediate), days per week, language (DE / EN).
